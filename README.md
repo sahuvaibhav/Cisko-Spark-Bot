@@ -2,6 +2,7 @@
 
 ### References : 
 https://github.com/SamPiy93/Python-Bot-Integration
+
 http://madumal.piyasundara.org/2017/02/python-chat-bot-integration-with-cisco.html
 
 Below are some basic steps involved
@@ -19,10 +20,15 @@ This will register ngrok link to webhook
 
 # Supporting links 
 1 - http://madumal.piyasundara.org/2017/02/python-chat-bot-integration-with-cisco.html
+
 2 - https://communities.cisco.com/community/developer/spark/blog/2016/07/18/spark-bot-demo
+
 3 - https://developer.ciscospark.com/endpoint-rooms-get.html to get room ids
+
 4 - https://developer.ciscospark.com  to create a new bot 
+
 5 - https://learninglabs.cisco.com/lab/collab-spark-chatops-bot-itp/step/1  Lab for many bots ay cisco spark
+
 6 - https://learninglabs.cisco.com/lab/collab-sparkwebhook/step/1  webhook understanding good one
   
 ## For detailed explaination follow my Blog at meduim 
