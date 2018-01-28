@@ -1,8 +1,8 @@
 # Python ChatBot Basic Script for demo to Intergrate with Cisco Spark
 
 ### References : 
-     https://github.com/SamPiy93/Python-Bot-Integration
-    http://madumal.piyasundara.org/2017/02/python-chat-bot-integration-with-cisco.html
+https://github.com/SamPiy93/Python-Bot-Integration
+http://madumal.piyasundara.org/2017/02/python-chat-bot-integration-with-cisco.html
 
 Below are some basic steps involved
 # How to set a webhook for Cisco Spark
